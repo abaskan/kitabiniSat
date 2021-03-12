@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173105172984",
+    "firebase_url": "https://kitabini-sat.firebaseio.com",
+    "project_id": "kitabini-sat",
+    "storage_bucket": "kitabini-sat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173105172984:android:60427c9f7c29524b49c60d",
+        "android_client_info": {
+          "package_name": "com.example.kitabinisat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173105172984-g22bvedh0us4opb2rnka4eibh9asdomq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kitabinisat",
+            "certificate_hash": "e27b67aa95ddbe4c307bae2e5d6ff4876b3cbb45"
+          }
+        },
+        {
+          "client_id": "173105172984-di779jthsbter1p6b2q6h8c90q8oa06o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcx7Orc9kEVpAz8sa2q7baqYx7sqWdUYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173105172984-di779jthsbter1p6b2q6h8c90q8oa06o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

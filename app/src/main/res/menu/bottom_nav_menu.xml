@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionMainPage"
+        android:icon="@drawable/icon_user_main_page"
+        android:title="Ana Sayfa" />
+    <item
+        android:id="@+id/actionFavorites"
+        android:icon="@drawable/icon_action_favorites"
+        android:title="Favorilerim" />
+
+    <item
+        android:id="@+id/actionChats"
+        android:icon="@drawable/icon_action_chat"
+        android:title="Mesajlarım" />
+    <item
+        android:id="@+id/actionSettings"
+        android:icon="@drawable/icon_action_settings"
+        android:title="Ayarlarım" />
+
+</menu>
